@@ -1,0 +1,34 @@
+{
+    "member": [
+        {
+            "name": "Cristiano Ronaldo",
+            "email": "ronniecr7@gmail.com",
+            "role": "Junior developer",
+            "permission_level": "Root User"
+        },
+        {
+            "name": "Gianluigi Donnarumma",
+            "email": "gigi47@gmail.com",
+            "role": "Senior Developer",
+            "permission_level": "Super User"
+        },
+        {
+            "name": "Jason Stone",
+            "email": "jason.stone@gmail.com",
+            "role": "Senior Test Engineer",
+            "permission_level": "Owner"
+        },
+        {
+            "name": "Romelu dos santos Lukaku",
+            "email": "romelu.lukaku@gmail.com",
+            "role": "Technical Architect",
+            "permission_level": "Admin"
+        },
+        {
+            "name": "Francisco Roman Alarcon Suarez",
+            "email": "isco456@gmail.com",
+            "role": "Automation Test Engineer",
+            "permission_level": "Root User"
+        }
+    ]
+}
